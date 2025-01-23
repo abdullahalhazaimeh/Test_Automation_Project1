@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="15" total="16" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-11T18:48:28 AST" name="Default suite" finished-at="2025-01-11T18:48:47 AST" duration-ms="19036">
+    <groups>
+    </groups>
+    <test started-at="2025-01-11T18:48:28 AST" name="Default test" finished-at="2025-01-11T18:48:47 AST" duration-ms="19036">
+      <class name="web_p.Test_web_site">
+        <test-method is-config="true" signature="web_site()[pri:0, instance:web_p.Test_web_site@10b9db7b]" started-at="2025-01-11T18:48:28 AST" name="web_site" finished-at="2025-01-11T18:48:47 AST" duration-ms="18995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- web_site -->
+        <test-method signature="CheckTheTitle()[pri:16, instance:web_p.Test_web_site@10b9db7b]" started-at="2025-01-11T18:48:47 AST" name="CheckTheTitle" finished-at="2025-01-11T18:48:47 AST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckTheTitle -->
+        <test-method is-config="true" signature="after()[pri:0, instance:web_p.Test_web_site@10b9db7b]" started-at="2025-01-11T18:48:47 AST" name="after" finished-at="2025-01-11T18:48:47 AST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- web_p.Test_web_site -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
